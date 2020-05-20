@@ -988,3 +988,10 @@ body {
     font-size: 18px;
     line-height: 1.5;
 }
+
+.access-now-button {
+    align-items: center
+}
+.access-now-button img {
+    width:45px;
+}
