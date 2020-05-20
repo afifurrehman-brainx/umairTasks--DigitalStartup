@@ -17,7 +17,6 @@ body {
      align-items: flex-end;
      justify-content: center;
      flex-wrap: wrap;
-     /*height: 848px;*/
      height: 540px;
  }
  
@@ -938,8 +937,8 @@ body {
      font-size: 18px;
      padding: 14px;
      -webkit-box-shadow: 0px 0px 20px 12px rgba(232,232,232,1);
- -moz-box-shadow: 0px 0px 20px 12px rgba(232,232,232,1);
- box-shadow: 0px 0px 20px 12px rgba(232,232,232,1);
+    -moz-box-shadow: 0px 0px 20px 12px rgba(232,232,232,1);
+    box-shadow: 0px 0px 20px 12px rgba(232,232,232,1);
  }
  .fnt-13{
      font-size: 13px;
