@@ -12,6 +12,7 @@ body {
      background-image: url("../images/header-background-img.png"), radial-gradient(white, black);
      background-size: cover;
      background-repeat: no-repeat;
+     background-position: bottom;
      display: flex;
      align-items: center;
      justify-content: center;
