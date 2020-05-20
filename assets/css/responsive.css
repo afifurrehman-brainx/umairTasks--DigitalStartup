@@ -205,6 +205,10 @@
     .header, .header-without-background {
         padding: 70px 11%;
     }
+    .header{
+        padding: 0;
+    }
+
 
     .custom-width {
         margin-left: 5%;

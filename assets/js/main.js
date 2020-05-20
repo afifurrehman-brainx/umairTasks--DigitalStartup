@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    var countDownDate = new Date("May 22, 2020 23:59:59").getTime();
+    var countDownDate = new Date("May 22, 2021 23:59:59").getTime();
     var x = setInterval(function () {
 
         var now = new Date().getTime();
