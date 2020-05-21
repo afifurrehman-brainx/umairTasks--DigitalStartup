@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="467e3237-ac62-4238-ba06-cf75bcf74084" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/top-banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/top-banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/digital-startup.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="58" column="32" lean-forward="true" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
+            <state relative-caret-position="287">
+              <caret line="300" column="25" selection-start-line="300" selection-start-column="25" selection-end-line="300" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#1;n#div#0;n#section#7;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -40,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-14368">
-              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="126">
+              <caret line="345" column="13" lean-forward="true" selection-start-line="345" selection-start-column="13" selection-end-line="345" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -53,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/assets/css/responsive.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="201">
-              <caret line="120" column="16" lean-forward="true" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
+              <caret line="120" column="16" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -83,10 +83,10 @@
       <find>schedule</find>
       <find>section-1</find>
       <find>sponsors</find>
-      <find>speakers</find>
       <find>tickets</find>
       <find>ticket</find>
       <find>get free acc</find>
+      <find>speakers</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -96,9 +96,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/assets/js/main.js" />
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/assets/css/responsive.css" />
         <option value="$PROJECT_DIR$/digital-startup.html" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
       </list>
     </option>
   </component>
@@ -191,7 +191,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590068359868</updated>
       <workItem from="1590068362950" duration="2431000" />
-      <workItem from="1590078425019" duration="3610000" />
+      <workItem from="1590078425019" duration="4506000" />
     </task>
     <task id="LOCAL-00001" summary="wasabi changes">
       <created>1590069924072</created>
@@ -228,11 +228,25 @@
       <option name="project" value="LOCAL" />
       <updated>1590099956163</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="banner updated">
+      <created>1590100100168</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590100100168</updated>
+    </task>
+    <task id="LOCAL-00007" summary="speakers added">
+      <created>1590100975025</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590100975025</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6041000" />
+    <option name="totallyTimeSpent" value="6937000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="23" width="1280" height="725" extended-state="0" />
@@ -265,7 +279,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="wasabi changes" />
     <MESSAGE value="waseem changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="waseem changes" />
+    <MESSAGE value="banner updated" />
+    <MESSAGE value="speakers added" />
+    <option name="LAST_COMMIT_MESSAGE" value="speakers added" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/images/iPhone X-XS-11 Pro – 1@2x.png">
@@ -274,14 +290,7 @@
     <entry file="file://$PROJECT_DIR$/assets/css/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
-          <caret line="120" column="16" lean-forward="true" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14368">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <caret line="120" column="16" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -294,12 +303,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/digital-startup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="58" column="32" lean-forward="true" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
+        <state relative-caret-position="287">
+          <caret line="300" column="25" selection-start-line="300" selection-start-column="25" selection-end-line="300" selection-end-column="25" />
           <folding>
             <element signature="n#style#0;n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#1;n#div#0;n#section#7;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="345" column="13" lean-forward="true" selection-start-line="345" selection-start-column="13" selection-end-line="345" selection-end-column="13" />
         </state>
       </provider>
     </entry>

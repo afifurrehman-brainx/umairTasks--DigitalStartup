@@ -349,7 +349,7 @@ body {
  
  .speaker-image {
      position: relative;
-     min-height: 343px;
+     min-height: 250px;
  }
  
  .venue-image-container img {
