@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="467e3237-ac62-4238-ba06-cf75bcf74084" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/ds-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/ds-logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/iPhone X-XS-11 Pro – 1@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/top-banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/top-banner.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/digital-startup.html" beforeDir="false" afterPath="$PROJECT_DIR$/digital-startup.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/digital-startup.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+            <state relative-caret-position="225">
+              <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
               <folding>
                 <element signature="n#style#0;n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#1;n#div#0;n#section#7;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -191,7 +185,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590068359868</updated>
       <workItem from="1590068362950" duration="2431000" />
-      <workItem from="1590078425019" duration="2716000" />
+      <workItem from="1590078425019" duration="2918000" />
     </task>
     <task id="LOCAL-00001" summary="wasabi changes">
       <created>1590069924072</created>
@@ -207,11 +201,18 @@
       <option name="project" value="LOCAL" />
       <updated>1590071639967</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="waseem changes">
+      <created>1590098325127</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590098325127</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5147000" />
+    <option name="totallyTimeSpent" value="5349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="23" width="1280" height="725" extended-state="0" />
@@ -243,7 +244,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="wasabi changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="wasabi changes" />
+    <MESSAGE value="waseem changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="waseem changes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/images/iPhone X-XS-11 Pro – 1@2x.png">
@@ -272,8 +274,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/digital-startup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        <state relative-caret-position="225">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
           <folding>
             <element signature="n#style#0;n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#1;n#div#0;n#section#7;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
