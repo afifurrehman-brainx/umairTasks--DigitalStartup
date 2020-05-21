@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="467e3237-ac62-4238-ba06-cf75bcf74084" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/digital-startup.html" beforeDir="false" afterPath="$PROJECT_DIR$/digital-startup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/top-banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/top-banner.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/digital-startup.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+            <state relative-caret-position="201">
+              <caret line="58" column="32" lean-forward="true" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#1;n#div#0;n#section#7;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -81,6 +82,11 @@
       <find>large</find>
       <find>schedule</find>
       <find>section-1</find>
+      <find>sponsors</find>
+      <find>speakers</find>
+      <find>tickets</find>
+      <find>ticket</find>
+      <find>get free acc</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -185,7 +191,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590068359868</updated>
       <workItem from="1590068362950" duration="2431000" />
-      <workItem from="1590078425019" duration="2918000" />
+      <workItem from="1590078425019" duration="3610000" />
     </task>
     <task id="LOCAL-00001" summary="wasabi changes">
       <created>1590069924072</created>
@@ -208,11 +214,25 @@
       <option name="project" value="LOCAL" />
       <updated>1590098325127</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="waseem changes">
+      <created>1590098521877</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590098521877</updated>
+    </task>
+    <task id="LOCAL-00005" summary="waseem changes">
+      <created>1590099956163</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590099956163</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5349000" />
+    <option name="totallyTimeSpent" value="6041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="23" width="1280" height="725" extended-state="0" />
@@ -274,8 +294,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/digital-startup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        <state relative-caret-position="201">
+          <caret line="58" column="32" lean-forward="true" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#1;n#div#0;n#section#7;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
