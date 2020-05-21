@@ -432,7 +432,7 @@ body {
      padding-right: 4%;
      padding-top: 2rem;
      height: 413px;
-     max-width: 250px;
+     max-width: 350px;
      margin: 0 auto;
  }
  
@@ -950,6 +950,11 @@ body {
     padding: 10px;
    /* transform: translateY(77px);*/
  }
+
+.timer-section .timer-value {
+    font-size: 36px;
+}
+
  #section-intro{
     background-color: black;
     color: white;
