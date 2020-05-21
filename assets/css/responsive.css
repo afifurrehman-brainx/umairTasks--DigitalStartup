@@ -118,7 +118,8 @@
 
 @media (max-width: 991px) {
     #section-1{
-        height: 600px;
+        height: 180px;
+        background-position: center;
     }
     .menu-button {
         width: 100% !important;
