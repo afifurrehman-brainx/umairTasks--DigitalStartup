@@ -945,7 +945,7 @@ body {
  }
 
  .timer-section{
-    background-color: black;
+
    /* width: 70%;*/
     padding: 10px;
    /* transform: translateY(77px);*/
@@ -957,8 +957,8 @@ body {
 
 .timer-box {
     padding: 10px;
-    background: white;
-    color: black;
+    background: black;
+    color: white;
     width: 120px;
     border-radius: 5px !important;
     font-weight: bold;
@@ -1018,8 +1018,8 @@ body {
 
     .timer-box {
         padding: 10px;
-        background: white;
-        color: black;
+        background: black;
+        color: white;
         width: 120px;
         border-radius: 5px !important;
         font-weight: bold;

@@ -18,11 +18,12 @@ $(document).ready(function () {
         var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
         var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-        document.getElementById("days").innerHTML = days;
-        document.getElementById("hours").innerHTML = hours.toLocaleString(undefined, { minimumIntegerDigits: 2 });
-        document.getElementById("minutes").innerHTML = minutes.toLocaleString(undefined, { minimumIntegerDigits: 2 });
-        document.getElementById("seconds").innerHTML = seconds.toLocaleString(undefined, { minimumIntegerDigits: 2 });
-
+        if(document.getElementById("days")) {
+            document.getElementById("days").innerHTML = days;
+            document.getElementById("hours").innerHTML = hours.toLocaleString(undefined, {minimumIntegerDigits: 2});
+            document.getElementById("minutes").innerHTML = minutes.toLocaleString(undefined, {minimumIntegerDigits: 2});
+            document.getElementById("seconds").innerHTML = seconds.toLocaleString(undefined, {minimumIntegerDigits: 2});
+        }
         if (distance < 0) {
             clearInterval(x);
             document.getElementById("timer").innerHTML = "EXPIRED";
