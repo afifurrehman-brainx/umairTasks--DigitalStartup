@@ -1,10 +1,10 @@
             <?php include 'sections/header.php'; ?>
             <!-- Container (Hero Section)  -->
             <section id="section-1">
-               
+                <img class="hero-img" src="/virtualevent/assets/images/top-banner.png"></section>
             </section>
             
-            <section style="background: #000;">
+            <section style="background: #252525;">
                 <div class="container-fluid" id="hero_email_form">
                     <div class="text-white text-center col-md-12" >
 
@@ -82,11 +82,24 @@
                         builders, and media buyers.</p>
 
 
-                    <div class="d-flex justify-content-center pt-2 pb-5 access-now-button">
+                    <div class="py-3 px-2 my-5" style="background: #252525; text-align: center;">
+                        <h1 class="grant-title headings">$10K Founder Grant</h1>
+
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
+
 
                         <button class="blck-color solid-btn large-btn my-2 rounded px-4" type="submit">
-                            <a href="#section-7" class="mail-link">Get Free Access Now </a>
+                            <a href="#" class="mail-link">Apply For Grant</a>
                         </button>
+
+                    </div>
+
+
+                    <div class="d-flex justify-content-center pb-3 access-now-button">
+
+<!--                        <button class="blck-color solid-btn large-btn my-2 rounded px-4" type="submit">-->
+<!--                            <a href="#section-7" class="mail-link">Get Free Access Now </a>-->
+<!--                        </button>-->
 
                     </div>
 
@@ -424,9 +437,8 @@ Knowing that I had more to offer, I applied that same drive to work with establi
                                 <div class="card shadow-border">
                                     <div class="card-body">
                                         <h5 class="card-title text-center bold font-weight-bold">Product vision</h5>
-                                        <div class="topic-image mx-auto my-2">
-                                            <img src="/virtualevent/assets/images/topics-icon-ecommerce.png" class="card-img-top"
-                                                 alt="...">
+                                        <div class="topic-image mx-auto my-0">
+                                            <i class="fa fa-cart-plus topic-icon" aria-hidden="true"></i>
                                         </div>
 
                                     </div>
@@ -436,9 +448,8 @@ Knowing that I had more to offer, I applied that same drive to work with establi
                                 <div class="card shadow-border">
                                     <div class="card-body">
                                         <h5 class="card-title text-center bold font-weight-bold">Product Sourcing</h5>
-                                        <div class="topic-image mx-auto my-2">
-                                            <img src="/virtualevent/assets/images/topics-icon-traffic.png" class="card-img-top"
-                                                 alt="...">
+                                        <div class="topic-image mx-auto my-0">
+                                            <i class="fa fa-bar-chart topic-icon" aria-hidden="true"></i>
                                         </div>
 
                                     </div>
@@ -448,9 +459,8 @@ Knowing that I had more to offer, I applied that same drive to work with establi
                                 <div class="card shadow-border">
                                     <div class="card-body">
                                         <h5 class="card-title text-center bold font-weight-bold">Brand Creation</h5>
-                                        <div class="topic-image mx-auto my-2">
-                                            <img src="/virtualevent/assets/images/topics-icon-list.png" class="card-img-top"
-                                                 alt="...">
+                                        <div class="topic-image mx-auto my-0">
+                                            <i class="fa fa-list-alt topic-icon" aria-hidden="true"></i>
                                         </div>
 
                                     </div>
@@ -460,9 +470,8 @@ Knowing that I had more to offer, I applied that same drive to work with establi
                                 <div class="card shadow-border ">
                                     <div class="card-body">
                                         <h5 class="card-title text-center bold font-weight-bold">Scaled Influencers</h5>
-                                        <div class="topic-image mx-auto my-2">
-                                            <img src="/virtualevent/assets/images/topics-icon-content.png" class="card-img-top"
-                                                 alt="...">
+                                        <div class="topic-image mx-auto my-0">
+                                            <i class="fa fa-bullhorn topic-icon" aria-hidden="true"></i>
                                         </div>
 
                                     </div>
@@ -479,9 +488,8 @@ Knowing that I had more to offer, I applied that same drive to work with establi
                                 <div class="card shadow-border ">
                                     <div class="card-body">
                                         <h5 class="card-title text-center bold font-weight-bold">FB Ads Audiences</h5>
-                                        <div class="topic-image mx-auto my-2">
-                                            <img src="/virtualevent/assets/images/topics-icon-list.png" class="card-img-top"
-                                                 alt="...">
+                                        <div class="topic-image mx-auto my-0">
+                                            <i class="fa fa-facebook-square topic-icon" aria-hidden="true"></i>
                                         </div>
 
                                     </div>
@@ -491,9 +499,8 @@ Knowing that I had more to offer, I applied that same drive to work with establi
                                 <div class="card shadow-border">
                                     <div class="card-body">
                                         <h5 class="card-title text-center bold font-weight-bold">Social Ad Creative</h5>
-                                        <div class="topic-image mx-auto my-2">
-                                            <img src="/virtualevent/assets/images/topics-icon-content.png" class="card-img-top"
-                                                 alt="...">
+                                        <div class="topic-image mx-auto my-0">
+                                            <i class="fa fa-users topic-icon" aria-hidden="true"></i>
                                         </div>
 
                                     </div>
@@ -503,9 +510,8 @@ Knowing that I had more to offer, I applied that same drive to work with establi
                                 <div class="card shadow-border ">
                                     <div class="card-body">
                                         <h5 class="card-title text-center bold font-weight-bold">Pre-Sales Content</h5>
-                                        <div class="topic-image mx-auto my-2">
-                                            <img src="/virtualevent/assets/images/topics-icon-ecommerce.png" class="card-img-top"
-                                                 alt="...">
+                                        <div class="topic-image mx-auto my-0">
+                                            <i class="fa fa-pencil-square-o topic-icon" aria-hidden="true"></i>
                                         </div>
 
                                     </div>
@@ -515,9 +521,8 @@ Knowing that I had more to offer, I applied that same drive to work with establi
                                 <div class="card shadow-border">
                                     <div class="card-body">
                                         <h5 class="card-title text-center bold font-weight-bold">AOV Maximization</h5>
-                                        <div class="topic-image mx-auto my-2">
-                                            <img src="/virtualevent/assets/images/topics-icon-traffic.png" class="card-img-top"
-                                                 alt="...">
+                                        <div class="topic-image mx-auto my-0">
+                                            <i class="fa fa-line-chart topic-icon" aria-hidden="true"></i>
                                         </div>
 
                                     </div>
@@ -647,7 +652,7 @@ Knowing that I had more to offer, I applied that same drive to work with establi
                     <div class="col-xl-6 yellow-bg">
                         <div class="ticket-container ticket-container-1">
                             <div class="text-center">
-                                <h5 class="ticket-heading">SUPER EARLY-BIRD</h5>
+                                <h5 class="ticket-heading">FREE ADMISSION</h5>
                                 <p class="ticket-subheading">Attendee Pass - Limited Time Offer!</p>
                                 <div>
                                     <span class="discount-price">

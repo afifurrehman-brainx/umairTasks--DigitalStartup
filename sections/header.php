@@ -19,6 +19,10 @@
     <link rel="stylesheet" href="/virtualevent/assets/css/main.css">
     <link rel="stylesheet" href="/virtualevent/assets/css/responsive.css">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700&display=swap" rel="stylesheet">
+
+    <script src="https://pheedloop.s3.amazonaws.com/embed/embed.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://pheedloop.s3.amazonaws.com/embed/embed.css" />
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 </head>
 
 <body>

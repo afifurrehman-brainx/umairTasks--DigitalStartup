@@ -117,9 +117,8 @@
 }
 
 @media (max-width: 991px) {
-    #section-1{
+    .hero-img{
         height: 180px;
-        background-position: center;
     }
     .menu-button {
         width: 100% !important;

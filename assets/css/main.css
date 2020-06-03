@@ -8,17 +8,13 @@ body {
  .dp-n{
      display: none;
  }
- #section-1 {
-     background-image: url("../images/top-banner.png"), radial-gradient(white, black);
-     background-size: cover;
-     background-repeat: no-repeat;
-     background-position: top;
-     display: flex;
-     align-items: flex-end;
-     justify-content: center;
-     flex-wrap: wrap;
-     height: 540px;
- }
+
+.hero-img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+}
  
  main {
      margin-top: 121px;
@@ -361,11 +357,9 @@ body {
      /*margin-left: 12%;*/
      /*margin-right: 12%;*/
  }
- 
- .topic-image {
-     max-width: 35%;
- }
- 
+
+
+
  .shadow-border {
      box-shadow: 0px 2px 55px #00000026;
      border: 0px;
@@ -957,7 +951,7 @@ body {
 
 .timer-box {
     padding: 10px;
-    background: black;
+    background: #252525;
     color: white;
     width: 120px;
     border-radius: 5px !important;
@@ -994,7 +988,7 @@ body {
  }
 
 .header-description {
-    background-color: black;
+    background-color: #252525;
     width: 100%;
     font-size: 30px;
 }
@@ -1010,6 +1004,25 @@ body {
     width:45px;
 }
 
+.topic-icon {
+    display: block !important;
+    width: 75px;
+    text-align: center;
+    font-size: 44px !important;
+    background-color: #ecba16;
+    border-radius: 50%;
+    height: 75px;
+    line-height: 75px !important;
+    color: #252525;
+    margin: auto;
+}
+
+.topics-card-container .card-title
+{
+    min-height: 48px;
+    margin-bottom: 0px;
+}
+
  /* back here */
 @media (max-width:768px) {
     .timer-section .timer-value {
@@ -1018,7 +1031,6 @@ body {
 
     .timer-box {
         padding: 10px;
-        background: black;
         color: white;
         width: 120px;
         border-radius: 5px !important;
