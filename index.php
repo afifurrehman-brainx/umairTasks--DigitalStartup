@@ -82,7 +82,7 @@
                         builders, and media buyers.</p>
 
 
-                    <div class="py-3 px-2 my-5" style="background: #252525; text-align: center;">
+                    <div class="py-3 px-2 my-5 grant-parent" style="background: #252525; text-align: center;margin-left: -27px;margin-right: -27px;">
                         <p>Pay Certify Presents: </p>
                         <h1 class="grant-title headings">$10K Founder Hot Seat</h1>
 
@@ -93,7 +93,7 @@
 
 
                         <button class="blck-color solid-btn large-btn my-2 rounded px-4" type="submit">
-                            <a href="#" class="mail-link">Apply For Grant</a>
+                            <a href="https://team670442.typeform.com/to/LAbZAh" target="_blank" class="mail-link">Apply For Grant</a>
                         </button>
 
                     </div>
