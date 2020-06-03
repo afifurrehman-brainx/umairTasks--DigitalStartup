@@ -576,7 +576,7 @@ Knowing that I had more to offer, I applied that same drive to work with establi
             <section id="section-6">
                 <div class="headings blck-color text-center mt-4">Sponsors<span class="yellow-text">.</span></div>
                 <div class="speakers-card-container custom-width max-wd-1380">
-                    <div class="row m-0 mt-4">
+                    <div class="row m-0 mt-4 align-items-center">
                         <div class="col-3 px-1 pt-4 partners-container">
                             <div class="partners-logo-container text-center">
                                 <img src="/virtualevent/assets/images/paycertify-logo.png" alt="">
@@ -624,9 +624,45 @@ Knowing that I had more to offer, I applied that same drive to work with establi
                                 <img src="/virtualevent/assets/images/194group-logo.png" alt="">
                             </div>
                         </div>
+
+
+
+
+
+
+
                         <div class="col-3 px-1 pt-4 partners-container">
                             <div class="partners-logo-container text-center">
+                                <img src="/virtualevent/assets/images/purelei-logo.png" alt="">
+                            </div>
+                        </div>
 
+
+                        <div class="col-3 px-1 pt-4 partners-container">
+                            <div class="partners-logo-container text-center">
+                                <img src="/virtualevent/assets/images/smoothie-logo.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-3 px-1 pt-4 partners-container">
+                            <div class="partners-logo-container text-center">
+                                <img src="/virtualevent/assets/images/crossnet-logo.png" alt="">
+                            </div>
+                        </div>
+
+                        <div class="col-3 px-1 pt-4 partners-container">
+                            <div class="partners-logo-container text-center">
+                                <img src="/virtualevent/assets/images/structured-logo.png" alt="">
+                            </div>
+                        </div>
+
+                        <div class="col-3 offset-3 px-1 pt-4 partners-container">
+                            <div class="partners-logo-container text-center">
+                                <img src="/virtualevent/assets/images/snow-logo.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-3 px-1 pt-4 partners-container ">
+                            <div class="partners-logo-container text-center">
+                                <img src="/virtualevent/assets/images/welling-logo.png" alt="">
                             </div>
                         </div>
 
