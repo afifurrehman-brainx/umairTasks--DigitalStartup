@@ -68,7 +68,7 @@
 
                 <div class="text-left container mx-auto px-5 site-font" style="padding-top: 50px;">
                     <div class="headings">Overview<span class="yellow-text">.</span></div>
-                    <p>The Ecommerce Surge is happening.</p>
+                    <p>Ecommerce Disruptors is a “first of its kind” LIVE virtual event that will reveal deep insights through storytelling, raw conversation, total speaker interactivity, and the ability to easily network with other attendees interested in the same things.</p>
                     <p>Amid the market chaos, direct to consumer brands are blowing up…</p>
                     <p>And a new breed of performance-focused digital agencies fuel the fire with creative and traffic
                         scaling. </p>
@@ -83,9 +83,13 @@
 
 
                     <div class="py-3 px-2 my-5" style="background: #252525; text-align: center;">
-                        <h1 class="grant-title headings">$10K Founder Grant</h1>
+                        <p>Pay Certify Presents: </p>
+                        <h1 class="grant-title headings">$10K Founder Hot Seat</h1>
 
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
+                        <p>Are you building a disruptive digital product, brand, or service?</p>
+                        <p>Ready to take the Hot Seat to plead your case?</p>
+                        <p>Submit your application to Founder LLC and Digital Startup and we’ll select 4 individuals, to join our Speaker Panel Live on Zoom to tell us why and exactly how your Digital Startup would make the BEST use of a $10K Founder Grant and the winner will walk with it.</p>
+                        <p>Even if you’re not in the running for this prize, these forum discussions are always interesting and highly educational.</p>
 
 
                         <button class="blck-color solid-btn large-btn my-2 rounded px-4" type="submit">
@@ -391,9 +395,7 @@ Knowing that I had more to offer, I applied that same drive to work with establi
                     <p>Ecommerce Disruptors is a “first of its kind” virtual event that will reveal deep insights
                         through storytelling, raw conversation, total speaker interactivity, and the ability to easily
                         network with other attendees interested in the same things. </p>
-                    <p>Digital Startup events are not your typical digital event. Interactivity is KEY to learning and
-                        our platform uses zoom teleconferencing to create abilities to network 1 on 1 AND in focused
-                        groups with attendees. sponsors, and speakers.</p>
+                    <p>Digital Startup events are not your typical digital event. Interactivity is KEY to learning and our platform uses zoom teleconferencing to create abilities to network 1 on 1 with any attendee. Our event is LIVE so you can also use chat to ask questions throughout the presentations.</p>
 
                     <p>Come spend the day in raw, honest conversation with the industry leaders behind some of the
                         brands and agencies that are literally changing the game with record sales every quarter. </p>
